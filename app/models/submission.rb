@@ -236,7 +236,7 @@ class Submission < ApplicationRecord
     self.result = result_hash.to_json
     self.status = Submission.normalize_status result_hash[:status]
     self.accepted = result_hash[:accepted]
-    self.summary = result_hash[:description]
+    self.summary = result_hash[:description].length > 200 ? "#{result_hash[:description][0...200]}... (truncated)" : result_hash[:description]
     save
   end
 

@@ -6059,18 +6059,18 @@ json5@2.x, json5@^2.1.2, json5@^2.2.3:
   resolved "https://registry.yarnpkg.com/json5/-/json5-2.2.3.tgz#78cd6f1a19bdc12b73db5ad0c61efd66c1e29283"
   integrity sha512-XmOWe7eyHYH14cLdVPoyg+GOH3rYX++KpzrylJwSW98t3Nk+U8XOl8FWKOgwtzdb8lXGf6zYwDUzeHMWfxasyg==
 
-jspreadsheet-ce@^4.15.0:
-  version "4.15.0"
-  resolved "https://registry.yarnpkg.com/jspreadsheet-ce/-/jspreadsheet-ce-4.15.0.tgz#9f857fa088691b124677d8c33fdfe1963d80eea7"
-  integrity sha512-1A1q7uxICxzXRiql3ZhXldFPjdt5VcFcoHSEvfvBFw9DcU7bq/gAEaqyKMJPeG+6zibpO4r+b8Dk88nIR7NKng==
+jspreadsheet-ce@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/jspreadsheet-ce/-/jspreadsheet-ce-5.0.1.tgz#b493523a57b6ca3031c57ce0293f8f93949ad3f7"
+  integrity sha512-yGGGEJDUznR37o9FMDDYLj5xd0lc44/avzm/YM8wvMSf0Nux0/L4S91CFU5haTJJJO9LSvcj5Xq6xl3KuIrg+g==
   dependencies:
     "@jspreadsheet/formula" "^2.0.2"
-    jsuites "^5.6.5"
+    jsuites "^5.8.5"
 
-jsuites@^5.6.5:
-  version "5.8.2"
-  resolved "https://registry.yarnpkg.com/jsuites/-/jsuites-5.8.2.tgz#65c0518a4cbd562bcec757c6d940d84bd7ee77c5"
-  integrity sha512-HvVFuOWc5C5ASwddh7FwUS645cRVC0Yvt89uWAtaSCA0NNAh1TdL5LoK0TFbB2NlNEMO31pjvCv94tCcCuwysw==
+jsuites@^5.8.5:
+  version "5.9.1"
+  resolved "https://registry.yarnpkg.com/jsuites/-/jsuites-5.9.1.tgz#3166001ee15bb0a75162333e999c4b2cec93ff48"
+  integrity sha512-ieENBfcfTP2gn59urXGks7vLrxLIY/wT/H8NGpNetGDLTH6x7Q+bLkTJm/VjLJSTvbq99DkwpkxXsqSWKPT83w==
 
 keyv@^4.5.3, keyv@^4.5.4:
   version "4.5.4"

@@ -168,7 +168,7 @@ group :test do
   gem 'webmock'
 
   # I18N default locale & better test reporter
-  gem 'minitest-utils', '~> 0.4.8'
+  gem 'minitest-utils', '~> 0.4.10'
 end
 
 group :development do

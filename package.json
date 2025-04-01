@@ -12,9 +12,9 @@
     "test:system:coverage:merge": "nyc merge ./coverage/system-js  ./coverage/coverage.json"
   },
   "dependencies": {
-    "@babel/core": "^7.26.0",
-    "@babel/plugin-transform-runtime": "^7.25.9",
-    "@babel/preset-env": "^7.26.0",
+    "@babel/core": "^7.26.10",
+    "@babel/plugin-transform-runtime": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
     "@codemirror/autocomplete": "^6.18.3",
     "@codemirror/commands": "^6.7.1",
     "@codemirror/language": "^6.10.6",
@@ -40,7 +40,7 @@
     "@types/jest": "^27.5.0",
     "@types/node-polyglot": "^2.5.0",
     "@types/serviceworker": "^0.0.107",
-    "babel-loader": "^9.2.1",
+    "babel-loader": "^10.0.0",
     "babel-plugin-macros": "^3.1.0",
     "bootstrap": "5.3.3",
     "codemirror-lang-prolog": "^0.1.0",

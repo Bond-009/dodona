@@ -177,10 +177,10 @@ group :development do
   gem 'web-console', '~> 4.2.1'
 
   gem 'rb-readline', '~> 0.5.5' # require for irb
-  gem 'rubocop-capybara', '~> 2.21.0'
-  gem 'rubocop-factory_bot', '~> 2.26'
-  gem 'rubocop-minitest', '~> 0.36.0'
-  gem 'rubocop-rails', '~> 2.27.0'
+  gem 'rubocop-capybara', '~> 2.22.1'
+  gem 'rubocop-factory_bot', '~> 2.27'
+  gem 'rubocop-minitest', '~> 0.38.0'
+  gem 'rubocop-rails', '~> 2.31.0'
 
   # for opening letters
   gem 'letter_opener', '~> 1.10.0'

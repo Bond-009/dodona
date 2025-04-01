@@ -11,7 +11,7 @@ gem 'trilogy', '~> 2.9.0'
 gem 'puma', '~> 6.5.0'
 
 # Use dart-sass for stylesheets
-gem 'cssbundling-rails', '~> 1.4.1'
+gem 'cssbundling-rails', '~> 1.4.3'
 
 # Use jsbundling to bundle javascript in app/javascript with webpack
 gem 'jsbundling-rails', '~> 1.3.1'

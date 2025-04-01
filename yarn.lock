@@ -1422,17 +1422,20 @@
   resolved "https://registry.yarnpkg.com/@iframe-resizer/child/-/child-5.3.2.tgz#a7035d277cd9dab69f5e4a04db5b4a765c2f1f18"
   integrity sha512-y4uX26NzdAU1XRURiFCQCNTuLI04WTGUFQNcG4hfNZGvWO/BnfQ3fiVokQwZjnaQH7mzbGE2SLJqYUb1JIqF1Q==
 
-"@iframe-resizer/core@5.3.2":
-  version "5.3.2"
-  resolved "https://registry.yarnpkg.com/@iframe-resizer/core/-/core-5.3.2.tgz#0c7f10341bcf18236756b291a16588ffe7fcb2da"
-  integrity sha512-is6VXW1m/9y7ZUwyjUuHu5101TPFa69Rv8jNY0HrT5svwb1ICPZKeaoVzDw0TTBBa5eE7XfEFcXCeiP6UR9W3w==
-
-"@iframe-resizer/parent@^5.3.2":
-  version "5.3.2"
-  resolved "https://registry.yarnpkg.com/@iframe-resizer/parent/-/parent-5.3.2.tgz#5edb16cce4484f5ec0627a8bda82d104c7bd4463"
-  integrity sha512-xjrQpRtsC9p1pBUKewYI9cmHoxomhGGSvspLq7Xgh4uYiifORaHqrqOnAgWKsV6Gl83s16g3RE1v1hRM7ZNOMQ==
+"@iframe-resizer/core@5.4.2":
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/@iframe-resizer/core/-/core-5.4.2.tgz#fe1c22546400a24e7742194cc4dbfa172883d0fb"
+  integrity sha512-0sMkaTnL96ggS7bv2gtphp2Miaz8z0uIqts265GIyAao0Kav1VEYp0jArzYFmDv4uOzzZIucvkiJ7RASbbTYSA==
   dependencies:
-    "@iframe-resizer/core" "5.3.2"
+    auto-console-group "1.2.0"
+
+"@iframe-resizer/parent@^5.4.2":
+  version "5.4.2"
+  resolved "https://registry.yarnpkg.com/@iframe-resizer/parent/-/parent-5.4.2.tgz#c3583d692f4a7eefbcbe81c122e7ef5b39c3c3f9"
+  integrity sha512-92Z0CbiTGIl4unL1sDWLJZ0phZXJHStpX/ijKNnEvhLgXjn7xId0D5ZBrwjQYasgvir15xMQ+Veqf+yStUKquA==
+  dependencies:
+    "@iframe-resizer/core" "5.4.2"
+    auto-console-group "1.2.0"
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
@@ -3093,6 +3096,11 @@ atob@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/atob/-/atob-2.1.2.tgz#6d9517eb9e030d2436666651e86bd9f6f13533c9"
   integrity sha512-Wm6ukoaOGJi/73p/cl2GvLjTI5JM1k/O14isD73YML8StrH/7/lRFgmg8nICZgD3bZZvjwCGxtMOD3wWNAu8cg==
+
+auto-console-group@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/auto-console-group/-/auto-console-group-1.2.0.tgz#cbde796f3d68ac7c20dd5ba72686f7852f48a2b0"
+  integrity sha512-VhzgH1PDXGQP2kBkd/qBTQbKhdCbJcVNGxGiWXkWCnNpQ7RUsCtsWpNZXq9EGPHF9E/cK/qfC4qhg68ySDhexw==
 
 babel-jest@^26.6.3:
   version "26.6.3"

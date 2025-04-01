@@ -1296,10 +1296,10 @@
   resolved "https://registry.yarnpkg.com/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz#1d572bfbbe14b7704e0ba0f39b74815b84870d70"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
-"@dodona/papyros@2.3.7":
-  version "2.3.7"
-  resolved "https://registry.yarnpkg.com/@dodona/papyros/-/papyros-2.3.7.tgz#0b58cce12039bd7ae7d012d16b424818524e1ad6"
-  integrity sha512-y6To+Sb52+WjTbid3tECEg3S2iSoyEOSsp4dJhrQz21sKIqTkgQSHw41vwjOA8KBmUPDrtzM+qREuzCM9k3muQ==
+"@dodona/papyros@2.3.14":
+  version "2.3.14"
+  resolved "https://registry.yarnpkg.com/@dodona/papyros/-/papyros-2.3.14.tgz#07a7e068830ed94f0f55f57fc2a68dd719de28ae"
+  integrity sha512-HuZJbXAMbd0TE+IFXCCWe8x9r4OfkHsMMJCsDY3JuKFG3hmlgWnsc1wQ75duk3qIEZDM99YYhMUF0b84udlDFQ==
   dependencies:
     "@codemirror/autocomplete" "^6.11.1"
     "@codemirror/commands" "^6.3.1"
@@ -1311,25 +1311,25 @@
     "@codemirror/state" "^6.3.2"
     "@codemirror/theme-one-dark" "^6.1.2"
     "@codemirror/view" "^6.28.0"
-    "@dodona/trace-component" "1.2.1"
+    "@dodona/trace-component" "1.3.0"
     "@lezer/common" "^1.1.0"
     codemirror-readonly-ranges "^0.1.0-alpha.2"
     comlink "^4.4.1"
     comsync "^0.0.9"
     escape-html "^1.0.3"
     file-loader "^6.2.0"
-    i18n-js "4.4.3"
-    pyodide "^0.22.0"
+    i18n-js "4.5.1"
+    pyodide "^0.27.2"
     pyodide-worker-runner "1.4.0"
     sync-message "^0.0.12"
 
-"@dodona/trace-component@1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@dodona/trace-component/-/trace-component-1.2.1.tgz#72c698d4050b98d590d830b4a739212fc9a2ba9e"
-  integrity sha512-pfUwHQQ8HaF5erGRcue0MMHZ4ZAmQLbGYBQsJMvHw+GE091H98lcWWh4F/f9W1PUk/tAF1rpO2JZrAKbSCTyAQ==
+"@dodona/trace-component@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@dodona/trace-component/-/trace-component-1.3.0.tgz#d865f47a23dfec659f77dec388f7e78b576136be"
+  integrity sha512-rKIUM9X8bKqqv6L21zvSAzu3Lx67S06GcaE2kNN3QCqiTZerRB/g4SSJ0JLPpk4m6YOkuUM/ookt0FZWDFcbvA==
   dependencies:
     "@jsplumb/browser-ui" "^6.2.10"
-    lit "^3.2.0"
+    lit "^3.2.1"
 
 "@eslint-community/eslint-utils@^4.2.0", "@eslint-community/eslint-utils@^4.4.0":
   version "4.4.0"
@@ -3255,11 +3255,6 @@ balanced-match@^2.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-2.0.0.tgz#dc70f920d78db8b858535795867bf48f820633d9"
   integrity sha512-1ugUSr8BHXRnK23KfuYS+gVMC3LB8QGH9W1iGtDPsNWoQbgtXSExkBu2aDR4epiGWZOjZsj6lDl/N/AqqTC3UA==
 
-base-64@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/base-64/-/base-64-1.0.0.tgz#09d0f2084e32a3fd08c2475b973788eee6ae8f4a"
-  integrity sha512-kwDPIFCGx0NZHog36dj+tHiwP4QMzsZ3AgMViUBKI0+V5n4U0ufTCUMhnQ04diaRI8EX/QcPfql7zlhZ7j4zgg==
-
 base@^0.11.1:
   version "0.11.2"
   resolved "https://registry.yarnpkg.com/base/-/base-0.11.2.tgz#7bde5ced145b6d551a90db87f83c558b4eb48a8f"
@@ -5099,10 +5094,10 @@ human-signals@^1.1.1:
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-1.1.1.tgz#c5b1cd14f50aeae09ab6c59fe63ba3395fe4dfa3"
   integrity sha512-SEQu7vl8KjNL2eoGBLF3+wAjpsNfA9XMlXAYj/3EdaNfAlxKthD1xjEQfGOUhllCGGJVNY34bRr6lPINhNjyZw==
 
-i18n-js@4.4.3:
-  version "4.4.3"
-  resolved "https://registry.yarnpkg.com/i18n-js/-/i18n-js-4.4.3.tgz#09744ddd377261f614502cc5622ce6981026ea4a"
-  integrity sha512-QIIyvJ+wOKdigL4BlgwiFFrpoXeGdlC8EYgori64YSWm1mnhNYYjIfRu5wETFrmiNP2fyD6xIjVG8dlzaiQr/A==
+i18n-js@4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/i18n-js/-/i18n-js-4.5.1.tgz#12ea3d6333552ff75be0904ea50705f5a263d172"
+  integrity sha512-n7jojFj1WC0tztgr0I8jqTXuIlY1xNzXnC3mjKX/YjJhimdM+jXM8vOmn9d3xQFNC6qDHJ4ovhdrGXrRXLIGkA==
   dependencies:
     bignumber.js "*"
     lodash "*"
@@ -6160,7 +6155,7 @@ lit-element@^4.1.0:
   dependencies:
     "@types/trusted-types" "^2.0.2"
 
-"lit@^2.0.0 || ^3.0.0", lit@^3.0.0, lit@^3.2.0, lit@^3.2.1:
+"lit@^2.0.0 || ^3.0.0", lit@^3.0.0, lit@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/lit/-/lit-3.2.1.tgz#d6dd15eac20db3a098e81e2c85f70a751ff55592"
   integrity sha512-1BBa1E/z0O9ye5fZprPtdqnc0BFzxIxTTOO/tQFmyC/hj1O3jL4TfmLBw0WEwjAokdLwpclkvGgDJwTIh0/22w==
@@ -6522,7 +6517,7 @@ node-addon-api@^7.0.0:
   resolved "https://registry.yarnpkg.com/node-addon-api/-/node-addon-api-7.1.1.tgz#1aba6693b0f255258a049d621329329322aad558"
   integrity sha512-5m3bsyrjFWE1xf7nz7YXdN4udnVtXK6/Yfgn5qnahL6bCkf2yKt4k3nuTKAtT4r3IG8JNR2ncsIMdZuAzJjHQQ==
 
-node-fetch@^2.6.1, node-fetch@^2.6.7:
+node-fetch@^2.6.7:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.7.0.tgz#d0f0fa6e3e2dc1d27efcd8ad99d550bda94d187d"
   integrity sha512-c4FRfUm/dbcWZ7U+1Wq0AwCyFL+3nt2bEw05wfxSz+DWpWsitgmSgYmy2dQdWyKC1694ELPqMs/YzUSNozLt8A==
@@ -7048,13 +7043,11 @@ pyodide-worker-runner@1.4.0:
   dependencies:
     p-retry "^5.0.0"
 
-pyodide@^0.22.0:
-  version "0.22.1"
-  resolved "https://registry.yarnpkg.com/pyodide/-/pyodide-0.22.1.tgz#45bfab36ef332ec7fed6fb9736ab13ebd54f05d1"
-  integrity sha512-6+PkFLTC+kcBKtFQxYBxR44J5IBxLm8UGkobLgZv1SxzV9qOU2rb0YYf0qDtlnfDiN/IQd2uckf+D8Zwe88Mqg==
+pyodide@^0.27.2:
+  version "0.27.4"
+  resolved "https://registry.yarnpkg.com/pyodide/-/pyodide-0.27.4.tgz#269dfb5991d950d5bd17a3484247993b20d715da"
+  integrity sha512-2y3ySHCBmyzYDUlB939SaU3n7RxYQxwnGHgdakW/CPrNFX2L9fC+4nfJWQJH8a0ruQa8bBZSKCImMt/cq15RiQ==
   dependencies:
-    base-64 "^1.0.0"
-    node-fetch "^2.6.1"
     ws "^8.5.0"
 
 querystringify@^2.1.1:

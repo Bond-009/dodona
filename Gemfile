@@ -150,7 +150,7 @@ group :development, :test do
   gem 'rails-controller-testing', '~> 1.0.5'
 
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'byebug', '~> 11.1.3', platforms: %i[mri mingw x64_mingw]
+  gem 'byebug', '~> 12.0.0', platforms: %i[mri mingw x64_mingw]
 
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '~> 3.40.0'
